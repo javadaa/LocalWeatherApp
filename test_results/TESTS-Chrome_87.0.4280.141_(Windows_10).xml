@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 87.0.4280.141 (Windows 10)" package="" timestamp="2021-02-10T18:04:31" id="0" hostname="DESKTOP-9BQHLSE" tests="6" errors="0" failures="0" time="0.135">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"/>
+  </properties>
+  <testcase name="WeatherService should be created" time="0.022" classname="Chrome_87_0_4280_141_(Windows_10).WeatherService"/>
+  <testcase name="AppComponent should create the app" time="0.036" classname="Chrome_87_0_4280_141_(Windows_10).AppComponent"/>
+  <testcase name="AppComponent should render title" time="0.013" classname="Chrome_87_0_4280_141_(Windows_10).AppComponent"/>
+  <testcase name="CurrentWeatherComponent should eagerly load currentWeather in Bethesda from weatherService" time="0.047" classname="Chrome_87_0_4280_141_(Windows_10).CurrentWeatherComponent"/>
+  <testcase name="CurrentWeatherComponent should create" time="0.01" classname="Chrome_87_0_4280_141_(Windows_10).CurrentWeatherComponent"/>
+  <testcase name="CurrentWeatherComponent should get currentWeather from weatherService" time="0.007" classname="Chrome_87_0_4280_141_(Windows_10).CurrentWeatherComponent"/>
+  <system-out>
+    <![CDATA[Chrome 87.0.4280.141 (Windows 10) ERROR
+  Some of your tests did a full page reload!
+
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
