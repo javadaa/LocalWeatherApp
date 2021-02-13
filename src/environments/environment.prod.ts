@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  appId: "1a92e84978b9a64f8172212d51434292",
+  appId: "3bd5d82df337bd7182f0ab8727c06dca",
   baseUrl: "https://",
 };

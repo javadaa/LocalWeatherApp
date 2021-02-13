@@ -11,6 +11,9 @@ import { Component } from "@angular/core";
           Your city, your forecast, right now!
         </div>
       </div>
+      <div fxLayoutAlign="center">
+        <app-city-search></app-city-search>
+      </div>
 
       <div fxLayout="row">
         <div fxFlex></div>
